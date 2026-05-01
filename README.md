@@ -95,3 +95,7 @@ The durable fix should be in Codex Desktop itself:
 - The UI should distinguish "folder has no conversations" from "conversation list is not fully loaded yet".
 
 That would avoid local repacking and make the behavior predictable for users with large local session histories.
+
+Related upstream discussion:
+
+- https://github.com/openai/codex/issues/19290#issuecomment-4359469595
