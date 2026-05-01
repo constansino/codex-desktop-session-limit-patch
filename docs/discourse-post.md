@@ -28,6 +28,14 @@ Project:
 
 https://github.com/constansino/codex-desktop-session-limit-patch
 
+Official Codex discussion:
+
+https://github.com/openai/codex/discussions/20612
+
+Related issue comment:
+
+https://github.com/openai/codex/issues/19290#issuecomment-4359469595
+
 This does not modify `.codex/state_5.sqlite`, does not reorder `updated_at`, and does not delete or rewrite rollout files. It only changes a copied frontend bundle.
 
 ## Suggested upstream fix

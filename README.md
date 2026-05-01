@@ -98,4 +98,5 @@ That would avoid local repacking and make the behavior predictable for users wit
 
 Related upstream discussion:
 
+- https://github.com/openai/codex/discussions/20612
 - https://github.com/openai/codex/issues/19290#issuecomment-4359469595
