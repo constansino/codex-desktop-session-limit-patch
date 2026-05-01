@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.asar
+*.zip
+node_modules/
+dist/
+out/
+.DS_Store
+ElectronRunnerUserData/
+CodexSessionLimitPatch/
